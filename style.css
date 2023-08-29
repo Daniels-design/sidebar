@@ -19,6 +19,7 @@ nav.menu-lateral {
     box-shadow: 3px 0 0 rgb(0, 0, 240);
 
     overflow: hidden;
+    transition-duration: 1s;
 }
 nav.menu-lateral:hover {
     width: 300px;
